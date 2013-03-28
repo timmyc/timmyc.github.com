@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Skiing | My Octopress Blog]]></title>
+  <link href="http://timmyc.github.com/blog/categories/skiing/atom.xml" rel="self"/>
+  <link href="http://timmyc.github.com/"/>
+  <updated>2013-03-28T10:40:46-07:00</updated>
+  <id>http://timmyc.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Edgie Wedgie]]></title>
+    <link href="http://timmyc.github.com/blog/2011/12/17/edgie-wedgie/"/>
+    <updated>2011-12-17T00:00:00-08:00</updated>
+    <id>http://timmyc.github.com/blog/2011/12/17/edgie-wedgie</id>
+    <content type="html"><![CDATA[<p><img src="imgs/2011-12-17-edgie-wedgie/2085850901.jpg"></p>
+
+
+<p>Kaydee slayed sunshine without the edgie wedgie (which is now her favorite thing to say as well).  Super warm too...isn't it december?<p>1/8</p></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Pine]]></title>
+    <link href="http://timmyc.github.com/blog/2011/11/29/first-pine/"/>
+    <updated>2011-11-29T00:00:00-08:00</updated>
+    <id>http://timmyc.github.com/blog/2011/11/29/first-pine</id>
+    <content type="html"><![CDATA[<p><img src="imgs/2011-11-29-first-pine/2055374708.jpg"></p>
+
+
+<p>Greybird<p>1/1</p></p>
+]]></content>
+  </entry>
+  
+</feed>
